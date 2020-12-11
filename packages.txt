@@ -1,2 +1,2 @@
-man-db
+update-java-alternatives
 openjdk-11-jre
