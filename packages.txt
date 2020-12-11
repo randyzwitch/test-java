@@ -1,2 +1,2 @@
-update-java-alternatives
 openjdk-11-jre
+openjdk-11-jdk
