@@ -1,2 +1,2 @@
-oracle-java10-installer
-oracle-java10-set-default
+oracle-java11-installer
+oracle-java11-set-default
