@@ -1,1 +1,2 @@
-oracle-java8-installer
+ openjdk-11-jdk
+ openjdk-11-jre
